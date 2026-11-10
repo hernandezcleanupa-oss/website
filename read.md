@@ -2,7 +2,7 @@
 - it should be as simple as possible
 - this site is for a cleaning service that is both comercail and resedential
 - it should have a section that allows the customer to fill out there order and this should format an email that is opened up in the browser of the user
-- email caleb.newton45567@gmail.com 
+- email hernandezcleanup.a@gmail.com 
 - there should be an option to make the order recurring or a one time cleaning
 - this bisness operates out of Hazel green alabama and serves huntsville and faytteville TN
 - levrage google indexing to make this bizness show up more in the results using google bisness profiles and schema.org 

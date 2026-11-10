@@ -1,7 +1,7 @@
 // Booking form: live estimated total + itemized email order.
 // Prices live here only so they are not displayed on the page.
 
-const EMAIL = 'caleb.newton45567@gmail.com';
+const EMAIL = 'hernandezcleanup.a@gmail.com';
 
 const HOME_SIZES = {
   'studio': { label: 'Studio',          basic: 70,  deep: 90,  movein: 130, moveout: 150 },
